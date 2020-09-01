@@ -12,7 +12,7 @@ We contribute to ACG([\*1](#note)) Cultures through develop Open Source Software
 
 - [@p-chan](https://github.com/p-chan)
 
-## Contants
+## Contacts
 
 - [Twitter](https://twitter.com/kawaiioverflow)
 
