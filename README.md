@@ -16,6 +16,8 @@ We contribute to ACG([\*1](#note)) Cultures through develop Open Source Software
 ## Contacts
 
 - [Twitter](https://twitter.com/kawaiioverflow)
+- [Discord](https://discord.gg/fCfBXxZ)
+- [E-mail](mailto:hi@kawaiioverflow.com) (hi@kawaiioverflow.com)
 
 ## Note
 

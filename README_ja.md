@@ -16,6 +16,8 @@
 ## 連絡先
 
 - [Twitter](https://twitter.com/kawaiioverflow)
+- [Discord](https://discord.gg/fCfBXxZ)
+- [メール](mailto:hi@kawaiioverflow.com) (hi@kawaiioverflow.com)
 
 ## ノート
 
